@@ -1,0 +1,38 @@
+@CHARSET "ISO-8859-1";
+
+/* footer */
+#templatemo_footer {
+	clear: both;
+	width: 1347px;
+	padding: 120px 0 20px 0;
+	text-align: center;
+	border-top: 1px solid #8b8a8b;
+	background: #343233 url(images/templatemo_footer.jpg) no-repeat;
+}
+
+.footer_list {
+	margin: 0px;
+	padding: 0px;
+	list-style: none;
+}
+
+.footer_list li {
+	padding: 0 10px;
+	display: inline;
+	border-right: 1px solid #cccccc;
+}
+
+.footer_list li a {
+	color: #cccccc;
+	text-decoration: none;
+}
+
+.footer_list li a:hover {
+	color: #fcdd31;
+}
+
+#templatemo_footer a{
+	color: #cccccc;
+	text-decoration: none;
+}
+/* end of footer */
